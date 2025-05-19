@@ -9,11 +9,11 @@ This project is an **advanced machine learning solution** for detecting fraudule
 ```
 
 credit-card-fraud-detection/
-├── creditcard.csv                 # Dataset
-├── CreditCardFraudDetection.ipynb # Jupyter Notebook
-├── app.py                         # Streamlit App
-├── models\best_model.pkl          # Trained XGBoost Model
-└── requirements.txt               # Dependencies
+├── creditcard.csv                   # Dataset
+├── CreditCardFraudDetection.ipynb   # Jupyter Notebook
+├── streamlit_app\app.py             # Streamlit App
+├── models\best_model.pkl            # Trained XGBoost Model
+└── requirements.txt                 # Dependencies
 
 ````
 
