@@ -12,7 +12,7 @@ credit-card-fraud-detection/
 ├── creditcard.csv                 # Dataset
 ├── CreditCardFraudDetection.ipynb # Jupyter Notebook
 ├── app.py                         # Streamlit App
-├── best\_model.pkl                 # Trained XGBoost Model
+├── models\best_model.pkl          # Trained XGBoost Model
 └── requirements.txt               # Dependencies
 
 ````
@@ -102,12 +102,6 @@ This will launch an interactive interface where you can:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙋‍♂️ Contributing
 
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
@@ -116,11 +110,7 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 ## 📫 Contact
 
-Created by [Your Name](https://github.com/yourusername) — feel free to reach out!
+Created by Dhruv Pratap Singh - [Github](https://github.com/iamdpsingh), [LinkedIn](https://www.linkedin.com/in/dhruv-pratap-singh-088442253/)  — feel free to reach out!
 
 ```
 
----
-
-Let me know if you'd like the `requirements.txt` file too or want the `Streamlit app.py` next.
-```
