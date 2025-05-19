@@ -76,7 +76,7 @@ jupyter notebook CreditCardFraudDetection.ipynb
 After training and saving the model:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 This will launch an interactive interface where you can:
